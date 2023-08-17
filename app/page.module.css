@@ -146,3 +146,12 @@ opacity: 1;
   color:#f5f5f5;
 }
 
+.navmenu{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+}
+.menuopcion{
+  background-color:red;
+}
+
