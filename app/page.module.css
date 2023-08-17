@@ -1,3 +1,11 @@
+
+.logo{
+  background-color: blueviolet;
+  text-align: center;
+  justify-content: space-around;
+  
+}
+
 .services-items i{
   font-size: 40px;
   transition: all 0.3s;
